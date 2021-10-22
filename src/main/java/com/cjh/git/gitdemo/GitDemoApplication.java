@@ -15,6 +15,7 @@ public class GitDemoApplication {
         System.out.println("master-to");
         System.out.println("github-to");
         System.out.println("github-to");
+        System.out.println("master-to");
     }
 
 }
