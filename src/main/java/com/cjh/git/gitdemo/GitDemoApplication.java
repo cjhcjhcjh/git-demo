@@ -11,6 +11,7 @@ public class GitDemoApplication {
         System.out.println("aa");
         SpringApplication.run(GitDemoApplication.class, args);
         System.out.println("master");
+        System.out.println("hot-fix-to");
         System.out.println("master-to");
     }
 
